@@ -1,0 +1,15 @@
+E:\Exceptions_Saturday_Training\Assignments\NetworkException\obj\Debug\net6.0\NetworkException.csproj.AssemblyReference.cache
+E:\Exceptions_Saturday_Training\Assignments\NetworkException\obj\Debug\net6.0\NetworkException.GeneratedMSBuildEditorConfig.editorconfig
+E:\Exceptions_Saturday_Training\Assignments\NetworkException\obj\Debug\net6.0\NetworkException.AssemblyInfoInputs.cache
+E:\Exceptions_Saturday_Training\Assignments\NetworkException\obj\Debug\net6.0\NetworkException.AssemblyInfo.cs
+E:\Exceptions_Saturday_Training\Assignments\NetworkException\obj\Debug\net6.0\NetworkException.csproj.CoreCompileInputs.cache
+E:\Exceptions_Saturday_Training\Assignments\NetworkException\bin\Debug\net6.0\NetworkException.exe
+E:\Exceptions_Saturday_Training\Assignments\NetworkException\bin\Debug\net6.0\NetworkException.deps.json
+E:\Exceptions_Saturday_Training\Assignments\NetworkException\bin\Debug\net6.0\NetworkException.runtimeconfig.json
+E:\Exceptions_Saturday_Training\Assignments\NetworkException\bin\Debug\net6.0\NetworkException.dll
+E:\Exceptions_Saturday_Training\Assignments\NetworkException\bin\Debug\net6.0\NetworkException.pdb
+E:\Exceptions_Saturday_Training\Assignments\NetworkException\obj\Debug\net6.0\NetworkException.dll
+E:\Exceptions_Saturday_Training\Assignments\NetworkException\obj\Debug\net6.0\refint\NetworkException.dll
+E:\Exceptions_Saturday_Training\Assignments\NetworkException\obj\Debug\net6.0\NetworkException.pdb
+E:\Exceptions_Saturday_Training\Assignments\NetworkException\obj\Debug\net6.0\NetworkException.genruntimeconfig.cache
+E:\Exceptions_Saturday_Training\Assignments\NetworkException\obj\Debug\net6.0\ref\NetworkException.dll

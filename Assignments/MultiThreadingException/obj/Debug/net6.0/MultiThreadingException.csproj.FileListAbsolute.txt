@@ -1,0 +1,15 @@
+E:\Exceptions_Saturday_Training\Assignments\MultiThreadingException\bin\Debug\net6.0\MultiThreadingException.exe
+E:\Exceptions_Saturday_Training\Assignments\MultiThreadingException\bin\Debug\net6.0\MultiThreadingException.deps.json
+E:\Exceptions_Saturday_Training\Assignments\MultiThreadingException\bin\Debug\net6.0\MultiThreadingException.runtimeconfig.json
+E:\Exceptions_Saturday_Training\Assignments\MultiThreadingException\bin\Debug\net6.0\MultiThreadingException.dll
+E:\Exceptions_Saturday_Training\Assignments\MultiThreadingException\bin\Debug\net6.0\MultiThreadingException.pdb
+E:\Exceptions_Saturday_Training\Assignments\MultiThreadingException\obj\Debug\net6.0\MultiThreadingException.csproj.AssemblyReference.cache
+E:\Exceptions_Saturday_Training\Assignments\MultiThreadingException\obj\Debug\net6.0\MultiThreadingException.GeneratedMSBuildEditorConfig.editorconfig
+E:\Exceptions_Saturday_Training\Assignments\MultiThreadingException\obj\Debug\net6.0\MultiThreadingException.AssemblyInfoInputs.cache
+E:\Exceptions_Saturday_Training\Assignments\MultiThreadingException\obj\Debug\net6.0\MultiThreadingException.AssemblyInfo.cs
+E:\Exceptions_Saturday_Training\Assignments\MultiThreadingException\obj\Debug\net6.0\MultiThreadingException.csproj.CoreCompileInputs.cache
+E:\Exceptions_Saturday_Training\Assignments\MultiThreadingException\obj\Debug\net6.0\MultiThreadingException.dll
+E:\Exceptions_Saturday_Training\Assignments\MultiThreadingException\obj\Debug\net6.0\refint\MultiThreadingException.dll
+E:\Exceptions_Saturday_Training\Assignments\MultiThreadingException\obj\Debug\net6.0\MultiThreadingException.pdb
+E:\Exceptions_Saturday_Training\Assignments\MultiThreadingException\obj\Debug\net6.0\MultiThreadingException.genruntimeconfig.cache
+E:\Exceptions_Saturday_Training\Assignments\MultiThreadingException\obj\Debug\net6.0\ref\MultiThreadingException.dll

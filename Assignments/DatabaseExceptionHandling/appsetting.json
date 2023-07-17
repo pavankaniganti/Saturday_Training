@@ -1,0 +1,15 @@
+{
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ],
+  "ConnectionStrings": {
+    //"connectionstring": "Server=(LocalDb)\\MSSQLLocalDB;Database=pavan;Integrated Security=True;Persist Security Info=True;"
+    "con": "Server=(LocalDb)\\MSSQLLocalDB;Database=pavan;Integrated Security=True;Persist Security Info=True;"
+
+  }
+}

@@ -1,0 +1,15 @@
+E:\Exceptions_Saturday_Training\Assignments\InputValidationException\bin\Debug\net6.0\InputValidationException.exe
+E:\Exceptions_Saturday_Training\Assignments\InputValidationException\bin\Debug\net6.0\InputValidationException.deps.json
+E:\Exceptions_Saturday_Training\Assignments\InputValidationException\bin\Debug\net6.0\InputValidationException.runtimeconfig.json
+E:\Exceptions_Saturday_Training\Assignments\InputValidationException\bin\Debug\net6.0\InputValidationException.dll
+E:\Exceptions_Saturday_Training\Assignments\InputValidationException\bin\Debug\net6.0\InputValidationException.pdb
+E:\Exceptions_Saturday_Training\Assignments\InputValidationException\obj\Debug\net6.0\InputValidationException.csproj.AssemblyReference.cache
+E:\Exceptions_Saturday_Training\Assignments\InputValidationException\obj\Debug\net6.0\InputValidationException.GeneratedMSBuildEditorConfig.editorconfig
+E:\Exceptions_Saturday_Training\Assignments\InputValidationException\obj\Debug\net6.0\InputValidationException.AssemblyInfoInputs.cache
+E:\Exceptions_Saturday_Training\Assignments\InputValidationException\obj\Debug\net6.0\InputValidationException.AssemblyInfo.cs
+E:\Exceptions_Saturday_Training\Assignments\InputValidationException\obj\Debug\net6.0\InputValidationException.csproj.CoreCompileInputs.cache
+E:\Exceptions_Saturday_Training\Assignments\InputValidationException\obj\Debug\net6.0\InputValidationException.dll
+E:\Exceptions_Saturday_Training\Assignments\InputValidationException\obj\Debug\net6.0\refint\InputValidationException.dll
+E:\Exceptions_Saturday_Training\Assignments\InputValidationException\obj\Debug\net6.0\InputValidationException.pdb
+E:\Exceptions_Saturday_Training\Assignments\InputValidationException\obj\Debug\net6.0\InputValidationException.genruntimeconfig.cache
+E:\Exceptions_Saturday_Training\Assignments\InputValidationException\obj\Debug\net6.0\ref\InputValidationException.dll
